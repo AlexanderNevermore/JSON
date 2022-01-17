@@ -1,1 +1,28 @@
-
+{
+	"Summery" : "URL don't open on site vk.com"
+	"Project" : "vk.com"
+	"Component" : "URL with audio"
+	"Version" : "3.0"
+	"Severity" : "S3"
+	"Priority" : "P2"
+	"Status" : "New, Created"
+	"Author" : "Alexander Nevermore"
+	"Assigned To" : "Egor Levoshkin"
+	"Description" : [
+		"Web-site vk.com",
+		"Windows 10",
+		"SP4",
+		"Google Chrome",
+		"V 96.0.4664.10",
+					]
+	"Step" : [
+		"1. Open Google Chrome",
+		"2. Find Address bar in up",
+		"3. Click left mouse button on Adress bar",
+		"4. Enter text 'vk.com' ",
+		"5. Push button 'Enter' ",
+		"6. Find left list text 'Music' ",
+		"7. Click on text 'Music' ",
+		"8. Error.",
+		     ]
+}
