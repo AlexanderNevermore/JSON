@@ -1,13 +1,13 @@
 {
-	"Summery" : "URL don't open on site vk.com"
-	"Project" : "vk.com"
-	"Component" : "URL with audio"
-	"Version" : "3.0"
-	"Severity" : "S3"
-	"Priority" : "P2"
-	"Status" : "New, Created"
-	"Author" : "Alexander Nevermore"
-	"Assigned To" : "Egor Levoshkin"
+	"Summery" : "URL don't open on site vk.com",
+	"Project" : "vk.com",
+	"Component" : "URL with audio",
+	"Version" : "3.0",
+	"Severity" : "S3",
+	"Priority" : "P2",
+	"Status" : "New, Created",
+	"Author" : "Alexander Nevermore",
+	"Assigned To" : "Egor Levoshkin",
 	"Description" : [
 		"Web-site vk.com",
 		"Windows 10",
